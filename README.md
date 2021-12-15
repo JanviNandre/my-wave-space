@@ -1,5 +1,5 @@
 # Web3 App with Solidity + Ethereum Smart Contracts
-![app-view]()
+![app-view](https://github.com/JanviNandre/my-wave-space/blob/master/assets/app-view.png)
 
 # Basic Sample Hardhat Project
 
